@@ -10,7 +10,7 @@ Description Obstructive sleep apnea (OSA) is a common condition in the United St
 
 ```{r, echo=FALSE}
 library(readxl)
-file_path <- "/Users/TylerGallagher13/Desktop/Projects/Final/ctg-studies-01-Del.xlsx"
+file_path <- "/Users/TylerGallagher13/Desktop/Projects/ctg-studies-01-Del.xlsx"
 osaclintrial <- read_excel(file_path)
 ```
 
@@ -18,7 +18,7 @@ Table 1: A data table of randomized control trials included in this study.
 
 ```{r, echo=FALSE}
 library(DT)
-osaclintrial <- readxl::read_excel("//Users/TylerGallagher13/Desktop/Projects/Final/ctg-studies-01-Del.xlsx")
+osaclintrial <- readxl::read_excel("/Users/TylerGallagher13/Desktop/Projects/ctg-studies-01-Del.xlsx")
 selected_columns <- c("Start Date", "Study_Title", "Interventions", "Sponsor", "Sex", "Age")
 osaclintrial_selected <- osaclintrial[, selected_columns, drop = FALSE]
 datatable(osaclintrial_selected)
@@ -77,8 +77,5 @@ scatterplot
 
 **PDF Full Report**
 
-Utilize the link below to download a full PDF report of this analysis
-
-```{r, echo=FALSE}
-cat('/Users/TylerGallagher13/Desktop/Projects/Final/OSA Clinical Trials.pdf')
-```
+Utilize the link below to download a full PDF report of this analysis.
+\[Download PDF\](Final/OSA%20Clinical%20Trials.pdf){target="\_blank"}
