@@ -75,7 +75,7 @@ scatterplot <- plot_ly(
 scatterplot
 ```
 
-**PDF Full Report**
+## **PDF Full Report**
 
 Utilize the link below to download a full PDF report of this analysis.
 \[Download PDF\](OSA%20Clinical%20Trials.pdf){target="\_blank"}
