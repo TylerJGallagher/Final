@@ -77,4 +77,6 @@ scatterplot
 
 ## **PDF Full Report**
 
-Utilize the link below to download a full PDF report of this analysis.[PDF Link](https://github.com/TylerJGallagher/Final/blob/main/OSA_Clinical_Trials.pdf)
+Utilize the link below to download a full PDF report of this analysis.
+
+[PDF Link](https://github.com/TylerJGallagher/Final/blob/main/OSA_Clinical_Trials.pdf)
