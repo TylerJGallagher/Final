@@ -78,4 +78,4 @@ scatterplot
 ## **PDF Full Report**
 
 Utilize the link below to download a full PDF report of this analysis.
-\[Download PDF\](OSA%20Clinical%20Trials.pdf){target="\_blank"}
+\[Download PDF\](OSA_Clinical_Trials.pdf){target="\_blank"}
